@@ -4,7 +4,7 @@ export function Groups() {
   return (
     <Container>
       <Title>
-        Groups aqui here hello
+        Vamoooos 
       </Title>
     </Container>
   );
