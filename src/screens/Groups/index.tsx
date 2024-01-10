@@ -4,7 +4,7 @@ export function Groups() {
   return (
     <Container>
       <Title>
-        Vamoooos 
+        Hello Word!
       </Title>
     </Container>
   );
